@@ -1,0 +1,6 @@
+- name: anne
+  image: anne.jpg
+- name: romain
+  image: romain.jpeg
+- name: seb
+  image: seb.jpg
